@@ -58,7 +58,7 @@ const About = () => {
               for technology and a mutual commitment to success.
             </p>
             <a
-              href="https://drive.google.com/file/d/1wwP9R_L-VcEPFrl4YykRjoPwaUSRDtrq/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1IrkOn7lx-sfx_N3zraebSDOmWs0OXtzj/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               className="uppercase py-2 md:py-3 lg:py-4 px-4 md:px-6 lg:px-8 border border-white/20 rounded-full duration-500 inline-block mt-6 md:mt-8 lg:mt-10 text-base md:text-lg lg:text-xl"
